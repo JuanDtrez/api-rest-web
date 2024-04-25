@@ -1,0 +1,10 @@
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Javier', 'Garcia', 'jg@yahoo.com', 6893217, '2024-04-24');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Maria', 'Lopez', 'ml@yahoo.com', 6893218, '2024-04-25');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Carlos', 'Perez', 'cp@yahoo.com', 6893219, '2024-04-26');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Ana', 'Martinez', 'am@yahoo.com', 6893220, '2024-04-27');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Pedro', 'Sanchez', 'ps@yahoo.com', 6893221, '2024-04-28');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Sofia', 'Rodriguez', 'sr@yahoo.com', 6893222, '2024-04-29');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Luis', 'Gomez', 'lg@yahoo.com', 6893223, '2024-04-30');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Laura', 'Diaz', 'ld@yahoo.com', 6893224, '2024-05-01');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Juan', 'Hernandez', 'jh@yahoo.com', 6893225, '2024-05-02');
+INSERT INTO cliente (nombre, apellido, email, telefono, fecha_creacion) VALUES ('Elena', 'Alvarez', 'ea@yahoo.com', 6893226, '2024-05-03');
